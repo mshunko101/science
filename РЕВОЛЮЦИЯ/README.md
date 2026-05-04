@@ -21,5 +21,5 @@ I.3 Создать специальные коллекторы которые б
 I.4 Разработать экономическую модель которая бы позволяла решать данную проблему справедливо и системно.
 
 <p align="center">
- <img src="https://rossaprimavera.ru/static/files/63c6a6fd672e.jpg" width="500"/>
+ <img src="https://kprf-chel.ru/wp-content/uploads/2018/01/3xyswwm4psg.jpg" width="500"/>
 </p>
