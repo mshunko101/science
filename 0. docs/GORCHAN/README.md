@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img src="../docs/Медиа/421f282d38f11f0ba46aeff0e6241ad_1.jpeg" width="500"/>
+ <img src="../0. docs/Медиа/421f282d38f11f0ba46aeff0e6241ad_1.jpeg" width="500"/>
 </p>
 
 

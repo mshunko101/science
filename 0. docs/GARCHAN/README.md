@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img src="../docs/Медиа/0f19a5af2a811f093ae96157944bc6c_1.jpeg" width="500"/>
+ <img src="../0. docs/Медиа/0f19a5af2a811f093ae96157944bc6c_1.jpeg" width="500"/>
 </p>
 
 ## Сборка установки для поглощения и изучения энергии X
