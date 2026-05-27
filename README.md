@@ -19,7 +19,7 @@
 
 
 <p align="center">
- <img src="/0. docs/Медиа/1e87db859e311f19317deec63a4f9d1_1.jpeg" width="500"/>
+ <img src="/0. docs/Медиа/1e87db859e311f19317deec63a4f9d1_1.jpeg" width="800"/>
 </p>
 
 
