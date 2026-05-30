@@ -125,6 +125,100 @@ $$
 
 Наша модель показывает: чтобы избежать катастрофы, нужно не допустить отрицательных значений «веществ». Сила должна быть созидательной, Форма — упорядочивающей, Энергия — оживляющей. Только тогда резонанс станет не разрушительным, а творческим.
 
+Согласно (аналитическим исследованиям](https://github.com/mshunko101/science/tree/main/1.%20Диссертация/II%20ГЛАВА) 
+
+Посчитаю значения $\alpha_n$ для $n$ от 1 до 6. Для вычислений использую свойства гамма-функции: $\Gamma(k+1) = k!$ для целых $k$, а для полуцелых — формулу $\Gamma\left(\frac{1}{2}\right) = \sqrt{\pi}$ и рекуррентное соотношение $\Gamma(x+1) = x\Gamma(x)$. При $R \approx 21.213$
+
+---
+
+**При $n = 1$:**
+
+$$
+\alpha_1 = \frac{\pi^{1/2}}{32 \cdot \Gamma\left(\frac{1}{2} + 1\right)} \cdot (15\sqrt{2})^{1-5} = \frac{\sqrt{\pi}}{32 \cdot \Gamma\left(\frac{3}{2}\right)} \cdot (15\sqrt{2})^{-4}
+$$
+
+$\Gamma\left(\frac{3}{2}\right) = \frac{1}{2}\Gamma\left(\frac{1}{2}\right) = \frac{\sqrt{\pi}}{2}$, тогда:
+
+$$
+\alpha_1 = \frac{\sqrt{\pi}}{32 \cdot \frac{\sqrt{\pi}}{2}} \cdot \frac{1}{(15\sqrt{2})^4} = \frac{2}{32} \cdot \frac{1}{50625 \cdot 4} = \frac{1}{16 \cdot 202500} = \frac{1}{3240000} \approx 3.086 \cdot 10^{-7}
+$$
+
+**При $n = 2$:**
+
+$$
+\alpha_2 = \frac{\pi^{2/2}}{32 \cdot \Gamma\left(\frac{2}{2} + 1\right)} \cdot (15\sqrt{2})^{2-5} = \frac{\pi}{32 \cdot \Gamma(2)} \cdot (15\sqrt{2})^{-3}
+$$
+
+$\Gamma(2) = 1! = 1$, тогда:
+
+$$
+\alpha_2 = \frac{\pi}{32} \cdot \frac{1}{(15\sqrt{2})^3} = \frac{\pi}{32} \cdot \frac{1}{3375 \cdot 2\sqrt{2}} = \frac{\pi}{6750 \cdot 32 \sqrt{2}} \approx \frac{3.1416}{306000 \sqrt{2}} \approx 1.453 \cdot 10^{-5}
+$$
+
+**При $n = 3$:**
+
+$$
+\alpha_3 = \frac{\pi^{3/2}}{32 \cdot \Gamma\left(\frac{3}{2} + 1\right)} \cdot (15\sqrt{2})^{3-5} = \frac{\pi^{3/2}}{32 \cdot \Gamma\left(\frac{5}{2}\right)} \cdot (15\sqrt{2})^{-2}
+$$
+
+$\Gamma\left(\frac{5}{2}\right) = \frac{3}{2} \cdot \frac{1}{2} \cdot \sqrt{\pi} = \frac{3\sqrt{\pi}}{4}$, тогда:
+
+$$
+\alpha_3 = \frac{\pi^{3/2}}{32 \cdot \frac{3\sqrt{\pi}}{4}} \cdot \frac{1}{450} = \frac{4\pi}{96} \cdot \frac{1}{450} = \frac{\pi}{24 \cdot 450} \approx \frac{3.1416}{10800} \approx 2.909 \cdot 10^{-4}
+$$
+
+**При $n = 4$:**
+
+$$
+\alpha_4 = \frac{\pi^{4/2}}{32 \cdot \Gamma\left(\frac{4}{2} + 1\right)} \cdot (15\sqrt{2})^{4-5} = \frac{\pi^2}{32 \cdot \Gamma(3)} \cdot (15\sqrt{2})^{-1}
+$$
+
+$\Gamma(3) = 2! = 2$, тогда:
+
+$$
+\alpha_4 = \frac{\pi^2}{64} \cdot \frac{1}{15\sqrt{2}} \approx \frac{9.8696}{64 \cdot 15 \cdot 1.4142} \approx \frac{9.8696}{1357.632} \approx 7.269 \cdot 10^{-3}
+$$
+
+**При $n = 5$:**
+
+$$
+\alpha_5 = \frac{\pi^{5/2}}{32 \cdot \Gamma\left(\frac{5}{2} + 1\right)} \cdot (15\sqrt{2})^{5-5} = \frac{\pi^{5/2}}{32 \cdot \Gamma\left(\frac{7}{2}\right)} \cdot 1
+$$
+
+$\Gamma\left(\frac{7}{2}\right) = \frac{5}{2} \cdot \frac{3}{2} \cdot \frac{1}{2} \cdot \sqrt{\pi} = \frac{15\sqrt{\pi}}{8}$, тогда:
+
+$$
+\alpha_5 = \frac{\pi^{5/2}}{32 \cdot \frac{15\sqrt{\pi}}{8}} = \frac{8\pi^2}{480} = \frac{\pi^2}{60} \approx \frac{9.8696}{60} \approx 0.1645
+$$
+
+**При $n = 6$:**
+
+$$
+\alpha_6 = \frac{\pi^{6/2}}{32 \cdot \Gamma\left(\frac{6}{2} + 1\right)} \cdot (15\sqrt{2})^{6-5} = \frac{\pi^3}{32 \cdot \Gamma(4)} \cdot (15\sqrt{2})
+$$
+$\Gamma(4) = 3! = 6$, тогда:
+
+$$
+\alpha_6 = \frac{\pi^3}{192} \cdot 15\sqrt{2} \approx \frac{31.0063 \cdot 15 \cdot 1.4142}{192} \approx \frac{657.3}{192} \approx 3.423
+$$
+
+---
+
+## Итоговые значения:
+
+| $n$ | $\alpha_n$ (приближённо) |
+|------|---------------------------|
+| 1    | $3.086 \cdot 10^{-7}$   |
+| 2    | $1.453 \cdot 10^{-5}$   |
+| 3    | $2.909 \cdot 10^{-4}$   |
+| 4    | $7.269 \cdot 10^{-3}$   |
+| 5    | $0.1645$                |
+| 6    | $3.423$                 |
+
+
+Данные значения говорят о том что слышат там буквально *шепот души*.
+
+
 ---
 
 ### Заключение: от космоса к этике
