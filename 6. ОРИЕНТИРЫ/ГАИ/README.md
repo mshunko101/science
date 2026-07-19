@@ -1,10 +1,6 @@
 <p align="center">
  <img src="/0. docs/Медиа/Image0002.jpg" width="300"/>
-</p>
-<p align="center">
  <img src="/0. docs/Медиа/Image0001.jpg" width="300"/>
-</p>
-<p align="center">
  <img src="/0. docs/Медиа/Image0003.jpg" width="800"/>
 </p>
 
