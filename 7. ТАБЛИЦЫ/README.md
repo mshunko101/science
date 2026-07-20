@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img src="/0. docs/Медиа/34c091b7ee511f191187a1092d68135_1.jpeg" width="800"/>
+ <img src="/0. DOCS/Медиа/34c091b7ee511f191187a1092d68135_1.jpeg" width="800"/>
 </p>
 
 

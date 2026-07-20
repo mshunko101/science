@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="/0. docs/Медиа/8df62297811c11f1a7bc76d0815f6f30_1.jpg" width="800"/>
+ <img src="/0. DOCS/Медиа/8df62297811c11f1a7bc76d0815f6f30_1.jpg" width="800"/>
 </p>
 
 

@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="../0. docs/Медиа/df5da1a30c611f1982d864982c6637a_1.jpeg" width="500"/>
+ <img src="/0. DOCS/Медиа/df5da1a30c611f1982d864982c6637a_1.jpeg" width="500"/>
 </p>
 
 ### Литературное описание проведённой работы
