@@ -239,6 +239,7 @@ $$
 
 # Источник по версии Алиса+GPT.
 
+
 <p align="center">
  <img src="/0. DOCS/Медиа/Исток, Алиса+GPT.jpeg" width="800"/>
 </p>
