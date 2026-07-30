@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="/0. DOCS/Медиа/c3932c98bf911f1b6427a358d123af2_1.jpeg"/>
+</p>
+
 
 <p align="center">
  <img src="https://i.ytimg.com/vi/auGbgxEo9ok/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG6B4AC0AWKAgwIABABGGIgZSg_MA8=&rs=AOn4CLCeGM7C4jX_4vw7f_XwWTKny1wOHg"/>
